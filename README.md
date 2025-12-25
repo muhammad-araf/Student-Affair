@@ -89,19 +89,32 @@ Each student is identified using their university-issued ID (example: F24CSC039)
 
 ## Website Screenshots
 
-Add screenshots of the application below.
+## Website Screenshots
 
-### Home Page
-![Home Page](./screenshots/home.png)
-
-### Lost and Found Page
-![Lost and Found](./screenshots/lost-found.png)
-
-### Student Dashboard
-![Student Dashboard](./screenshots/student-dashboard.png)
+Below are screenshots of the Student Affair web application, including both student and admin panels.
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/adminDashboard.png)
+
+### Admin – Student Management
+![Admin Student Management](./screenshots/adminStudentManagement.png)
+
+### Admin – Queries Management
+![Admin Queries](./screenshots/adminQueries.png)
+
+### Admin – Complaints Management
+![Admin Complaints](./screenshots/adminComplain.png)
+
+### Admin – Appointments Management
+![Admin Appointments](./screenshots/adminAppointments.png)
+
+---
+
+### Student Dashboard
+![Student Dashboard](./screenshots/studentDashboard.jpeg)
+
+### Student – Query Page
+![Student Query](./screenshots/studentQuerie.png)
 
 ---
 
